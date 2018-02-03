@@ -16,7 +16,7 @@ public class AnnouncementDAO {
 
 	private final static String DBURL = "jdbc:mysql://localhost/announcements";
 	private final static String DBUSER = "root";
-	private final static String DBPASS = "supersilnehaslo123";
+	private final static String DBPASS = "";
 	private final static String DBDRIVER = "com.mysql.jdbc.Driver";
 
 	private java.sql.Connection connection;
